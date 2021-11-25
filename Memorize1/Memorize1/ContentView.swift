@@ -116,6 +116,7 @@ struct ContentView: View {
     }
     
     
+    
 //    var remove: some View {
 //        Button {
 //            if emojiCount > 1 {
